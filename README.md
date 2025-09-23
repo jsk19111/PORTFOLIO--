@@ -23,21 +23,21 @@
 
 <h1 align="left"> 👨‍💻 디자인 및 자기개발 포트폴리오 👨‍💻 </h1>
 <h2 align="left"># 디자인</h2>
-<h3 align="left">SNS 홍보용 - 상품광고 디자인</h3>
+<h3 align="left"> - SNS 홍보용 - 상품광고 디자인</h3>
 <p align="left">SNS 홍보용 - 상품광고 디자인(인스타)</p>
 <p align="left">SNS 홍보용 - 상품광고 디자인(블로그)</p>
 <p align="left">SNS 홍보용 - 상품광고 디자인(유튜브)</p>
-<h3 align="left">배너 제작</h3>
+<h3 align="left"> - 배너 제작</h3>
 <p align="left">배너 제작 - 나이키</p>
 <p align="left">배너 제작 - 버거킹</p>
-<h3 align="left">투톤 디자인</h3>
+<h3 align="left"> - 투톤 디자인</h3>
 <p align="left">PANTONE X 나이키 컨셉 투톤 디자인</p>
-<h3 align="left">여행사 페이지</h3>
+<h3 align="left"> - 여행사 페이지</h3>
 <p align="left">여행사 페이지 디자인</p>
-<h3 align="left">일러스트 배너제작</h3>
+<h3 align="left"> - 일러스트 배너제작</h3>
 <p align="left">타랑께</p>
 <p align="left">플로은행</p>
-<h3 align="left">무선블루투스 이어폰 디자인</h3>
+<h3 align="left"> - 무선블루투스 이어폰 디자인</h3>
 <p align="left">상품 상세설명 에어맥스 디자인</p>
 
 <br>

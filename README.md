@@ -34,6 +34,8 @@
 <p align="left">PANTONE X 나이키 컨셉 투톤 디자인</p>
 <h3 align="left"> - 여행사 페이지</h3>
 <p align="left">여행사 페이지 디자인</p>
+<img src="images/여행사 페이지 디자인.jpg" alt="여행사"/>
+<br>
 <h3 align="left"> - 일러스트 배너제작</h3>
 <p align="left">타랑께</p>
 <p align="left">플로은행</p>

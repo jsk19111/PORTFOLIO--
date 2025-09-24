@@ -34,7 +34,7 @@
 <img src="images/SNS 홍보용 - 상품광고 디자인(유튜부).jpg" alt="유튜브"/>
 <br>
 <br>
-<h3 align="left"> - 배너 제작 디자인인</h3>
+<h3 align="left"> - 배너 제작 디자인</h3>
 <p align="left">배너 제작 - 나이키</p>
 <img src="images/배너제작 - 나이키.jpg" alt="나이키"/>
 <br>

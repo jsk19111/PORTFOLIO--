@@ -60,7 +60,7 @@
 <img src="images/와이어 프레임 main (다자인 제작완료).png" alt="와이어프레임"/>
 <br>
 <br>
-<h3 align="left"> - 일러스트 배너제작 디자인인</h3>
+<h3 align="left"> - 일러스트 배너제작 디자인</h3>
 <p align="left">타랑께</p>
 <img src="images/일러스트 배너제작 - 타랑께.jpg" alt="타랑께"/>
 <br>

@@ -108,7 +108,8 @@
 <br>
 <h3 align="left"> - 카페24 상세페이지 구현</h3>
 <p align="left">개인적으로 새로운 디자인 트렌드에 맞춰서 레이아웃 등 기술동향을 주시하고자 자기개발 삼아서 해봤습니다 - 포토샵으로 다시 만들어보면서 디자인 폰트, 사이즈 및 구조 파악  / HTML5,CSS3 퍼블리싱 / Javascript, jQuery 기능 (구현하였습니다.)</p>
-<videos src="videos/카페24.mp4" alt="카페24">
+<p align="left">videos파일에 구현 영상 첨부했습니다</p>
+<img src="images/카페24.png" alt="카페24"/>
 <br>
 <br>
 <br>

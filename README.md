@@ -23,17 +23,6 @@
 
 <h1 align="left"> 👨‍💻 디자인 및 자기개발 포트폴리오 👨‍💻 </h1>
 <h2 align="left"># 디자인</h2>
-<h3 align="left"> - SNS 홍보용 - 상품광고 디자인</h3>
-<p align="left">SNS 홍보용 - 상품광고 디자인(인스타)</p>
-<img src="images/SNS 홍보용 - 상품광고 디자인(인스타).jpg" alt="인스타"/>
-<br>
-<p align="left">SNS 홍보용 - 상품광고 디자인(블로그)</p>
-<img src="images/SNS 홍보용 - 상품광고 디자인(블로그).jpg" alt="블로그"/>
-<br>
-<p align="left">SNS 홍보용 - 상품광고 디자인(유튜브)</p>
-<img src="images/SNS 홍보용 - 상품광고 디자인(유튜부).jpg" alt="유튜브"/>
-<br>
-<br>
 <h3 align="left"> - 배너 제작 디자인</h3>
 <p align="left">배너 제작 - 나이키</p>
 <img src="images/배너제작 - 나이키.jpg" alt="나이키"/>
@@ -71,6 +60,25 @@
 <h3 align="left"> - 무선블루투스 이어폰 디자인</h3>
 <p align="left">상품 상세설명 에어맥스 디자인</p>
 <img src="images/에어맥스 디자인.jpg" alt="무선블루투스"/>
+<br>
+<br>
+<h3 align="left"> - 낚시대회 (유튜브, 인스타) 홍보용 포스터 디자인.png</h3>
+<p align="left">낚시대회 (유튜브, 인스타) 홍보용 포스터 디자인.png</p>
+<p align="left">실제 <b>"강화발이"</b>라는 채널 유튜버가 커뮤니티 부분에 대회 공지용으로 사용, 제가 팬이라 간단히 만들어 봤었습니다</p>
+<p align="left"><b> 👇 유튜버 사이트 주소 첨부 👇 </b></p>
+<p align="left">https://www.youtube.com/post/UgkxzkUkGV206GBkWHelTAHSOfW4o-Wjgky4</p>
+<img src="images/낚시대회 (유튜브, 인스타) 홍보용 디자인.png" alt="낚시대회"/>
+<br>
+<br>
+<h3 align="left"> - SNS 홍보용 - 상품광고 디자인</h3>
+<p align="left">SNS 홍보용 - 상품광고 디자인(인스타)</p>
+<img src="images/SNS 홍보용 - 상품광고 디자인(인스타).jpg" alt="인스타"/>
+<br>
+<p align="left">SNS 홍보용 - 상품광고 디자인(블로그)</p>
+<img src="images/SNS 홍보용 - 상품광고 디자인(블로그).jpg" alt="블로그"/>
+<br>
+<p align="left">SNS 홍보용 - 상품광고 디자인(유튜브)</p>
+<img src="images/SNS 홍보용 - 상품광고 디자인(유튜부).jpg" alt="유튜브"/>
 <br>
 <br>
 

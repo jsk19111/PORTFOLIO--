@@ -13,12 +13,15 @@
 <p align="left"> - 데이터베이스 기술 : MYSQL</p>
 
 <br>
+<br>
 
 <h1 align="right"> 🥇 수상 경력 🥇 </h1>
 <h3 align="right">2016 지방기능경기대회</h3>
 <p align="right"> - 수여 기관 : 광주광역시 기능경기위원회</p>
 <p align="right"> - 내용 : 2016 지방기능경기대회 웹디자인 및 개발 직종 우수상</p>
 
+<br>
+<br>
 <br>
 
 <h1 align="left"> 👨‍💻 디자인 및 자기개발 포트폴리오 👨‍💻 </h1>

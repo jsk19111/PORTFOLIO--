@@ -1,8 +1,10 @@
 <br>
 <br>
 <br>
+<br>
 <h1 align="center">Hi 👋, seokin Portfolio(포트폴리오)</h1>
 <h3 align="center">열정적인 프론트엔드 개발자 정석인</h3>
+<br>
 <br>
 <br>
 <br>

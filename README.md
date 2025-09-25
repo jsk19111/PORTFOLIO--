@@ -63,6 +63,8 @@
 <h3 align="left"> - 낚시대회 (유튜브, 인스타) 홍보용 포스터 디자인</h3>
 <p align="left">낚시대회 (유튜브, 인스타) 홍보용 포스터</p>
 <p align="left">실제 <b>"강화발이</b> 유튜버 커뮤니티 부분 대회 공지용으로 사용, 팬심으로 간단하게 포토샵으로 구현해봤습니다.</h2>
+<p align="left"> 👇 youtube.com 주소 👇 </p>
+<p align="left"><b>https://www.youtube.com/post/UgkxzkUkGV206GBkWHelTAHSOfW4o-Wjgky4</b></p>
 <img src="images/낚시대회 (유튜브, 인스타) 홍보용 디자인.png" alt="낚시대회"/>
 <br>
 <br>

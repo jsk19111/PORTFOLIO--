@@ -63,8 +63,13 @@
 <br>
 <br>
 <h3 align="left"> - 낚시대회 (유튜브, 인스타) 홍보용 포스터 디자인</h3>
-<p align="left">낚시대회 (유튜브, 인스타) 홍보용 포스터 디자인.png</p>
-<p align="left">실제 <b>"강화발이"</현 및 자기개발</h2>
+<p align="left">낚시대회 (유튜브, 인스타) 홍보용 포스터</p>
+<p align="left">실제 <b>"강화발이</b> 유튜버 커뮤니티 부분 대회 공지용으로 사용, 팬심으로 간단하게 포토샵으로 구현해봤습니다.</h2>
+<img src="images/낚시대회 (유튜브, 인스타) 홍보용 디자인.png" alt="낚시대회"/>
+<br>
+<br>
+<br>
+<h2 align="left"># 고등학교 지방대회, 전국대회 문제 및 자기개발</h2>
 <h3 align="left"> - 지방대회 서울지역 문제풀이</h3>
 <p align="left">포토샵, 일러스트 디자인 / HTML5,CSS3 퍼블리싱 / Javascript, jQuery 기능 구현 / mysql, php 백엔드, DB 영역 (구현하였습니다.)</p>
 <img src="images/지방대회(서울).png" alt="서울"/>
